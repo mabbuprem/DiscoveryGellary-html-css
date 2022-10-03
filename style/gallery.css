@@ -1,0 +1,286 @@
+/* .galleries-hero img {
+    
+}
+img {
+    display: block;
+    height: 1px;
+    width: 10px;
+    margin-left: 0px;
+    
+}
+img {
+    border-style: none;
+}
+* {
+    box-sizing: border-box;
+}
+img[Attributes] {
+}
+style attribute {
+    cursor: default;
+}
+body {
+    
+    background-color:black;
+    font-family: messina-sans;
+   
+    
+  
+} */
+
+body {
+    
+    background-color:black;
+    font-family: messina-sans;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding: 0;
+    
+}
+
+
+
+.galleryimeage {
+    position: relative;
+    margin-left: 70px;
+    top: -210px;
+    color: white;
+    font-size: 60px;
+    
+}
+.ime9{
+    height: 1px;
+    width: 10px;
+    margin-left: 100px;
+}
+
+.gallery {
+    position: relative;
+    margin-left: 120px;
+    margin-right: 100px;
+    top: -420px;
+    color: white;
+    
+    
+    
+}
+.LAND {
+    position: relative;
+    margin-left: 125px;
+    top: -450px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    
+    
+}
+
+.About {
+   
+    position: relative;
+    margin-left: 760px;
+    top: -630px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    
+    
+}
+
+.Our{
+    
+    position: relative;
+    margin-left: 850px;
+    top: -660px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    
+    
+}
+
+.Experiences {
+    position: relative;
+    margin-left: 940px;
+    top: -690px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    
+    
+}
+
+.Press {
+    position: relative;
+    margin-left: 1100px;
+    top: -750px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    
+    
+}
+
+.Gallery5 {
+    position: relative;
+    margin-left: 1030px;
+    top: -720px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    
+    
+}
+
+
+.DISCOVERY{
+    
+    margin-left: 10px;
+    
+}
+
+.imege5{
+    /* margin-left: 50px; */
+    position: relative;
+    margin-left: 10px;
+    top: px;
+    color: black;
+    font-size: 25px;
+    line-height: 2;
+    
+}
+.imege6{
+    position: relative;
+    margin-left: -900px;
+    top: px;
+    color: black;
+    font-size: 25px;
+    line-height: 2;
+    
+}
+.imege7{
+    position: relative;
+    margin-left: -400px;
+    top: px;
+    color: black;
+    font-size: 25px;
+    line-height: 2;
+   
+}
+
+
+.galleries{
+    height: 310px;
+    width:100px;
+    margin-top: -410px;
+    margin-left: 0px;
+    justify-content: space-between;
+    display: flex;
+    
+}
+
+.galleries1{
+    height: 310px;
+    width:430px;
+    margin-top: 100px;
+    margin-left: 0px;
+    justify-content: space-between;
+    display: flex;
+}
+
+
+/* .galleries-item__thumb img {
+    height: 100%;
+    left: 0;
+    -o-object-fit: cover;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+img {
+    display: block;
+    height: auto;
+    width: 100%;
+}
+img {
+    border-style: none;
+}
+* {
+    box-sizing: border-box;
+}
+img[Attributes ] {
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+a, li, p {
+    font-size: .9rem;
+    line-height: 2;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+style attribute {
+    cursor: default;
+}
+body {
+    -webkit-text-size-adjust: none;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
+    background-color: #fff;
+    font-family: messina-sans;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding: 0;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+:root {
+    --header-normal: 8.1rem;
+    --header-sticky: 5.5rem;
+    --logo-normal: calc(2.15rem + 2px);
+    --logo-sticky: calc(2.25rem + 2px);
+    --phone-offset: calc((((var(--header-normal) - var(--logo-normal))/2) + var(--logo-normal))/2);
+    --gutter: 8vw;
+    --gutter-s: calc(var(--gutter)*0.75);
+    --gutter-xs: calc(var(--gutter)*0.5);
+    --gutter-xxs: calc(var(--gutter)*0.35);
+    --spacing: 6rem;
+    --spacing-l: calc(var(--spacing)*1.5);
+    --spacing-s: calc(var(--spacing)*0.75);
+    --spacing-xs: calc(var(--spacing)*0.4);
+    --spacing-xxs: calc(var(--spacing)*0.25);
+}
+
+html {
+    font-size: 14px;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.15;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+

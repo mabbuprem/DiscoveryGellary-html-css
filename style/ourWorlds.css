@@ -1,0 +1,318 @@
+
+body {
+    
+    background-color:black;
+    font-family: messina-sans;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding: 0;
+    
+}
+.imege11{
+    position: relative;
+    margin-left: -200px;
+    top: 30px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    width: 24px;
+    height: 30px;
+}
+
+.imege2{
+    position: relative;
+    margin-left: -295px;
+    top: 30px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    width: 50px;
+}
+.imege3{
+    position: relative;
+    margin-left: -295px;
+    top: 30px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    width: 50px;
+}
+.imege4{
+    position: relative;
+    margin-left: -295px;
+    top: 30px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    width: 50px;
+}
+
+.imege5{
+    position: relative;
+    margin-left: -295px;
+    top: 30px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    width: 50px;
+}
+.imege6{
+    position: relative;
+    margin-left: -295px;
+    top: 30px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    width: 50px;
+}
+.imege7{
+    position: relative;
+    margin-left: -295px;
+    top: 30px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    width: 50px;
+}
+.imege8{
+    position: relative;
+    margin-left: -295px;
+    top: 30px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    width: 50px;
+}
+.discover{
+    height:30px ;
+    width:20px;
+}
+.ime9{
+    height: 1px;
+    width: 10px;
+    margin-left: 100px;
+}
+
+.gallery {
+    position: relative;
+    margin-left: 120px;
+    margin-right: 100px;
+    top: 60px;
+    color: white;
+    
+    
+    
+}
+.LAND {
+    position: relative;
+    margin-left: 125px;
+    top: 30px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    
+    
+}
+
+.About {
+   
+    position: relative;
+    margin-left: 750px;
+    top:-25px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    
+    
+}
+
+.Our{
+    
+    position: relative;
+    margin-left: 850px;
+    top:-55px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    
+    
+}
+
+.Experiences {
+    position: relative;
+    margin-left: 950px;
+    top:-83px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    
+    
+}
+
+.Press {
+    position: relative;
+    margin-left: 1120px;
+    top:-138px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    
+    
+    
+}
+
+.Gallery5 {
+   
+    position: relative;
+    margin-left: 1050px;
+    top:-110px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    
+}
+
+
+.DISCOVERY{
+    
+    margin-left: 10px;
+    
+}
+
+.THEHILLS{
+    margin-left: 50px;
+}
+.TAYMOUTH{
+    margin-left: 115px;
+}
+.HOMEWOOD{
+    margin-left: 165px;
+}
+
+
+.NAPLES{
+    margin-left: 15px;
+}
+
+.ZAPOTAL{
+    margin-left: 155px;
+}
+
+
+.NORTH{
+    margin-left: 180px;
+}
+
+
+.JAMES{
+    margin-left: 130px;
+}
+
+.COSTATERRA{
+    margin-left: 10px;
+}
+
+.BARBUDA{
+    margin-left: 170px;
+}
+
+.DRIFTWOOD{
+    margin-left: 137px;
+}
+
+.PLAYA{
+    margin-left: 10px;
+}
+
+.TROUBADOUR{
+    margin-left: 210px;
+}
+
+.CHILENO{
+    margin-left: 65px;
+}
+
+.THESUMMIT{
+    margin-left: 140px;
+}
+
+.DUNE{
+    margin-left: 180px;
+}
+
+* {
+    box-sizing: border-box;
+}
+.paragraph {
+    display: white;
+    color: white;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.paragraph1 {
+    position: relative;
+    margin-left: 18px;
+    top:10px;
+    color: white;
+    font-size: 18px;
+    line-height: 2;
+}
+.paragraph2 {
+    position: relative;
+    margin-left: 5px;
+    top:10px;
+    color: white;
+    font-size: 18px;
+    line-height: 2;
+}
+.paragraph3 {
+    position: relative;
+    margin-left: 5px;
+    top:10px;
+    color: white;
+    font-size: 18px;
+    line-height: 2;
+}
+.paragraph4 {
+    position: relative;
+    margin-left: 5px;
+    top:10px;
+    color: white;
+    font-size: 18px;
+    line-height: 2;
+}
+body {
+    
+    
+}
+
+
+
+
+/* .world-thumb__img | js-world-thumb-inner {
+    background-color: hsla(0,0%,7%,.35);
+    content: "";
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    transition: opacity 1.25s ease;
+    width: 100%;
+    z-index: 5;
+}
+
+.taq1{
+    position: relative;
+    margin-left: 125px;
+    top: -520px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+} */
