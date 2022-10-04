@@ -57,10 +57,11 @@ body {
 
 .gallery {
     position: relative;
-    margin-left: 120px;
+    margin-left: 125px;
     margin-right: 100px;
-    top: -420px;
+    top: -435px;
     color: white;
+    font-size: 30px;
     
     
     

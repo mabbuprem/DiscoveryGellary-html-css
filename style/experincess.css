@@ -34,63 +34,9 @@ body {
 .Unforgatable{
     position: relative;
     margin-left: 200px;
-    top: -620px;
+    top: -550px;
     color: white;
     font-size: 30px;
-}
-.Perfect{
-    position: relative;
-    margin-left: 50px;
-    top: -10px;
-    color: white;
-    font-size: 30px;
-    
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-}
-
-.paragraph{
-    position: relative;
-    margin-left: 200px;
-    top: -350px;
-    color: black;
-    opacity: 0.6;
-    font-size: 15px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.para{
-    position: relative;
-    margin-left: 700px;
-    top: -200px;
-    
-}
-.para1{
-    position: relative;
-    margin-left: 200px;
-    top: -800px;
-    color:black;
-    opacity: 0.6;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
-    
-}
-.para2{
-    position: relative;
-    margin-left: 200px;
-    top: -800px;
-    font-size: 20px;
-    justify-content: space-between;
-    display: flex;
-    text-align: left;
-}
-.para3{
-    position: relative;
-    margin-left: 200px;
-    top: -800px;
-    font-size: 20px;
-}
-
-.what11{
-    top: 1000px;
 }
 
 .About1 {
@@ -149,10 +95,6 @@ body {
     
     
 }
-.galleryimeage{
-    position: relative;
-    margin-left: 10px;
-    top: 10px;
-    
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-}
+
+
+
