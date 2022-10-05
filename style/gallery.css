@@ -144,8 +144,8 @@ body {
 .imege5{
     /* margin-left: 50px; */
     position: relative;
-    margin-left: 10px;
-    top: px;
+    margin-left: 0px;
+    top: -370px;
     color: black;
     font-size: 25px;
     line-height: 2;
@@ -153,8 +153,8 @@ body {
 }
 .imege6{
     position: relative;
-    margin-left: -900px;
-    top: px;
+    margin-left: px;
+    top: -370px;
     color: black;
     font-size: 25px;
     line-height: 2;
@@ -162,12 +162,91 @@ body {
 }
 .imege7{
     position: relative;
-    margin-left: -400px;
-    top: px;
+    margin-left: 0px;
+    top: -370px;
     color: black;
     font-size: 25px;
     line-height: 2;
    
+}
+
+.imege8{
+    /* margin-left: 50px; */
+    position: relative;
+    margin-left: 0px;
+    top: -410px;
+    color: black;
+    font-size: 25px;
+    line-height: 2;
+    
+}
+.imege9{
+    position: relative;
+    margin-left: px;
+    top: -410px;
+    color: black;
+    font-size: 25px;
+    line-height: 2;
+    
+}
+.imege10{
+    position: relative;
+    margin-left: 0px;
+    top: -410px;
+    color: black;
+    font-size: 25px;
+    line-height: 2;
+   
+}
+
+.golf{
+    position: relative;
+    margin-left: 150px;
+    top: -50px;
+    color: white;
+    font-size: 30px;
+    line-height: 2;
+}
+.Outdoor{
+    position: relative;
+    margin-left: 100px;
+    top: -50px;
+    color: white;
+    font-size: 30px;
+    line-height: 2;
+}
+.Lifestyle{
+    position: relative;
+    margin-left: 100px;
+    top: -50px;
+    color: white;
+    font-size: 30px;
+    line-height: 2;
+}
+
+.Landscape{
+    position: relative;
+    margin-left: 100px;
+    top: -100px;
+    color: white;
+    font-size: 30px;
+    line-height: 2;
+}
+.Clubhouse{
+    position: relative;
+    margin-left: 100px;
+    top: -50px;
+    color: white;
+    font-size: 30px;
+    line-height: 2;
+}
+.wellness{
+    position: relative;
+    margin-left: 100px;
+    top: -50px;
+    color: white;
+    font-size: 30px;
+    line-height: 2;
 }
 
 
