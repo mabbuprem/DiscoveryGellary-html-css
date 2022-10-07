@@ -1,20 +1,11 @@
-
-body {
-    
-    background-color:white;
-    font-family: messina-sans;
-    margin: 0;
-    overflow-x: hidden;
-    overflow-y: scroll;
-    padding: 0;
-    
+.form{
+    background-color: lightgrey;
+    font-weight: bolder;
 }
-
 
 .descovery {
     position: relative;
-    margin-left: 120px;
-    margin-right: 100px;
+    left: 120px;
     top: -700px;
     color: white;
     
@@ -23,39 +14,34 @@ body {
 }
 .COMPANG {
     position: relative;
-    margin-left: 125px;
+    left: 130px;
     top: -720px;
     color: white;
-    font-size: .9rem;
+    font-size: 13px;
     line-height: 2;
-    
-    
 }
+
 .Unforgatable{
     position: relative;
-    margin-left: 200px;
+    left: 200px;
     top: -550px;
     color: white;
     font-size: 30px;
 }
 
-.About1 {
+.experiences{
+    position: relative;
+    left: 50px;
+    top: -50px;
+    color: white;
+    font-size: 50px;
+}
+
+.About {
    
     position: relative;
-    margin-left: 760px;
-    top: -1000px;
-    color: white;
-    font-size: .9rem;
-    line-height: 2;
-    
-    
-}
-
-.Our1{
-    
-    position: relative;
-    margin-left: 850px;
     top: -1030px;
+    left: 800px;
     color: white;
     font-size: .9rem;
     line-height: 2;
@@ -63,10 +49,11 @@ body {
     
 }
 
-.Experiences1 {
+.Our{
+    
     position: relative;
-    margin-left: 940px;
-    top: -1058px;
+    top: -1030px;
+    left: 810px;
     color: white;
     font-size: .9rem;
     line-height: 2;
@@ -74,10 +61,10 @@ body {
     
 }
 
-.Press1 {
+.Experiences {
     position: relative;
-    margin-left: 1100px;
-    top: -1113px;
+    top: -1030px;
+    left: 820px;
     color: white;
     font-size: .9rem;
     line-height: 2;
@@ -85,47 +72,329 @@ body {
     
 }
 
-.Gallery1 {
+.Press {
     position: relative;
-    margin-left: 1030px;
-    top: -1085px;
+    top: -1030px;
+    left: 850px;
     color: white;
     font-size: .9rem;
     line-height: 2;
     
     
 }
-.paragraph12{
+
+.Gallery{
     position: relative;
-    margin-left: 200px;
-    top: -350px;
+    top: -1030px;
+    left: 835px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+    
+}
+
+.paragraph{
+    position: relative;
+    left: 200px;
+    top: -250px;
     color: black;
     opacity: 0.6;
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 }
-.para{
+
+.image1{
     position: relative;
-    margin-left: 700px;
-    top: -200px;
+   left: 600px;
+   top: -100px;
 }
 
-.para1{
+.paragraph1{
     position: relative;
-    margin-left: 150px;
-    top: -800px;
+    top: -700px;
+    left: 100px;
     color:black;
     opacity: 0.6;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
-.para2{
+.paragraph2{
     position: relative;
-    margin-left: 150px;
-    top: -800px;
+    top: -700px;
+    left: 100px;
     font-size: 20px;
     justify-content: space-between;
     display: flex;
     text-align: left;
+
+}
+
+.golfcontainer{
+    border: solid white;
+    height: 500px;
+    width: 550px;
+    background-color: white;
+   margin-left: 600px;
+   margin-top: -300px;
+}
+
+.Golf{
+    margin-left: 70px;
+    margin-top: 100px;
+    color: gray;
+}
+
+.paragraph3{
+    position: relative;
+    margin-left: 70px;
+    top: 10px;
+    color: black;
+    opacity: 0.6;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    border: solid gray;
+    height: 70px;
+    width: 200px;
+    background-color: white;
+    margin-left: 680px;
+    margin-top: -150px;
+}
+
+.Explore{
+    color: gray;
+    margin-left: 60px;
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.image2{
+    position: relative;
+    left: 400px;
+    top: 300px;
+}
+
+.container1{
+    position: relative;
+    
+    /* height: 100px; */
+    width: 550px;
+    background-color: white;
+    margin-top: -200px;
+    margin-left: 100px;
+  
+}
+
+.Outdoor{
+    position: relative;
+    margin-left: 70px;
+    margin-top: 58px;
+    color: gray;
+}
+
+.paragraph4{
+    position: relative;
+    margin-left: 70px;
+    top: 10px;
+    color: black;
+    opacity: 0.6;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container2{
+    position: relative;
+    border: solid gray;
+    height: 70px;
+    width: 200px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+
+    
+}
+.Explore1{
+    position: relative;
+    color: gray;
+    margin-left: 60px;
+    font-size: 20px;
+    margin-top: 20px;
 }
 
 
+.image3{
+    position: relative;
+    left: 0px;
+    top: 300px;
+}
+
+.container3{
+    position: relative;
+    
+    /* height: 100px; */
+    width: 550px;
+    background-color: white;
+    margin-top: -200px;
+    margin-left: 600px;
+}
+
+.container4{
+    position: relative;
+    border: solid gray;
+    height: 70px;
+    width: 200px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+
+.paragraph5{
+    position: relative;
+    margin-left: 70px;
+    top: 10px;
+    color: black;
+    opacity: 0.6;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.willness{
+    position: relative;
+    margin-left: 70px;
+    margin-top: 58px;
+    color: gray;
+}
+
+.Explore2{
+    position: relative;
+    color: gray;
+    margin-left: 60px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+
+.all{
+    color: white;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.p1{
+    color: white;
+    margin-top: -350px;
+    margin-left: 550px;
+    font-size: 13px;
+    opacity: 0.6;
+}
+.p3{
+    color: white;
+    margin-top: -100px;
+    margin-left: 550px;
+    font-size: 20px;
+    
+}
+.p2{
+    color: white;
+    margin-top: -100px;
+    margin-left: 550px;
+    font-size: 20px;
+    
+}
+
+.About11{
+    position: relative;
+    margin-left: 850px;
+    top: -30px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+
+.Our11{
+    position: relative;
+    margin-left: -70px;
+    top: -5px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+.Experiences11{
+    position: relative;
+    margin-left: 850px;
+    top: -10px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+.Gallery11{
+    position: relative;
+    margin-left: 850px;
+    top: -10px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+.Press11{
+    position: relative;
+    margin-left: 850px;
+    top: -10px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+
+.Magagine{
+    position: relative;
+    margin-left: 1050px;
+    top: -190px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+
+.Careers{
+    position: relative;
+    margin-left: 1050px;
+    top: -190px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+
+.Foundation{
+    position: relative;
+    margin-left: 1050px;
+    top: -190px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+
+.Company{
+    position: relative;
+    margin-left: 1050px;
+    top: -190px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+
+.Contact{
+    position: relative;
+    margin-left: 1050px;
+    top: -190px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+.Privacy{
+    position: relative;
+    margin-left: 1050px;
+    top: -190px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}

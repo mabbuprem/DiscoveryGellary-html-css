@@ -244,6 +244,10 @@ body {
     color: white;
 }
 
+.p{
+    color: white;
+}
+
 .About11{
 
 }
@@ -259,5 +263,131 @@ body {
 .Press15{
     
 }
+
+.all{
+    color: white;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.p1{
+    color: white;
+    margin-top: -350px;
+    margin-left: 550px;
+    font-size: 13px;
+    opacity: 0.6;
+}
+.p3{
+    color: white;
+    margin-top: -100px;
+    margin-left: 550px;
+    font-size: 20px;
+    
+}
+.p2{
+    color: white;
+    margin-top: -100px;
+    margin-left: 550px;
+    font-size: 20px;
+    
+}
+
+.About11{
+    position: relative;
+    margin-left: 850px;
+    top: -30px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+
+.Our11{
+    position: relative;
+    margin-left: -70px;
+    top: -5px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+.Experiences11{
+    position: relative;
+    margin-left: 850px;
+    top: -10px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+.Gallery11{
+    position: relative;
+    margin-left: 850px;
+    top: -10px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+.Press11{
+    position: relative;
+    margin-left: 850px;
+    top: -10px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+
+.Magagine{
+    position: relative;
+    margin-left: 1050px;
+    top: -190px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+
+.Careers{
+    position: relative;
+    margin-left: 1050px;
+    top: -190px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+
+.Foundation{
+    position: relative;
+    margin-left: 1050px;
+    top: -190px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+
+.Company{
+    position: relative;
+    margin-left: 1050px;
+    top: -190px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+
+.Contact{
+    position: relative;
+    margin-left: 1050px;
+    top: -190px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+.Privacy{
+    position: relative;
+    margin-left: 1050px;
+    top: -190px;
+    color: white;
+    font-size: .9rem;
+    line-height: 2;
+}
+
+
+
     
     
